@@ -47,12 +47,3 @@ This is an Instagram bot that automatically follows followers of a specified acc
 
 - Use this bot responsibly. Excessive use may lead to your Instagram account being temporarily or permanently banned.
 - The XPaths and CSS Selectors used in this bot may change over time as Instagram updates its website. You may need to update these selectors in the code to keep the bot working.
-
-## Contributing
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes.
-4. Commit your changes (`git commit -m 'Add new feature'`).
-5. Push to the branch (`git push origin feature-branch`).
-6. Open a pull request.

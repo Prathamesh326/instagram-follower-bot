@@ -29,7 +29,7 @@ This is an Instagram bot that automatically follows followers of a specified acc
     pip install selenium
     ```
 
-3. Download Chrome WebDriver and add it to your system's PATH. You can download it from [here](https://sites.google.com/a/chromium.org/chromedriver/downloads).
+3. Download Chrome WebDriver and add it to your system's PATH.
 
 4. Update the `SIMILAR_ACCOUNT`, `USERNAME`, and `PASSWORD` variables in the `bot.py` file with your Instagram username, password, and the target account whose followers you want to follow.
 
